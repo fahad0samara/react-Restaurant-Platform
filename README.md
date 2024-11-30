@@ -1,6 +1,10 @@
 # 🍽️ Saveur Restaurant Platform
+![screencapture-localhost-5173-2024-11-30-08_19_50](https://github.com/user-attachments/assets/674d876a-d290-4dec-99f0-c8be3e82692c)
 
 A modern, full-featured restaurant management platform built with React, TypeScript, and Tailwind CSS. This application provides both customer-facing features and an administrative dashboard for restaurant management.
+
+
+
 
 ## 🌟 Key Features
 
@@ -194,9 +198,7 @@ The application can be deployed to:
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 👥 Support
 
