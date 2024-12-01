@@ -200,9 +200,7 @@ The application can be deployed to:
 
 
 
-## 👥 Support
 
-For support, email support@saveur.com or join our Slack channel.
 
 ## 🙏 Acknowledgments
 
